@@ -6,3 +6,4 @@ CSS<br/>
 JAVASCRIPT
 # Appearance:
 ![image](https://github.com/Electro5218/Website-studiumtalent/blob/main/notatki.jpg)
+![image](https://github.com/Electro5218/Website-studiumtalent/blob/main/notatkimobile.jpg)
